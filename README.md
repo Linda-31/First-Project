@@ -1,5 +1,5 @@
 <h1>LoginApp using React JS</h1>
-<img src="https://github.com/user-attachments/assets/26b7cbae-1b44-415d-acc0-e392e7a4044f" width="250" height="250"/>
+<img src="https://github.com/user-attachments/assets/26b7cbae-1b44-415d-acc0-e392e7a4044f" width="320" height="640"/>
 <h3>Output</h3>
 
 
